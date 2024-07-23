@@ -167,7 +167,7 @@ const ConfigureSession = ({
         "Tempo",
         "Abwechslung",
         "Zielklarheit",
-        "Athmosphäre",
+        "Atmosphäre",
         "Motivation",
         "kooperatives Arbeiten",
         "Spaßfaktor",
