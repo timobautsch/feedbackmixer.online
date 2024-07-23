@@ -147,7 +147,7 @@ const ConfigureSession = ({
         "Augenhöhe",
         "Unterstützungs-angebote",
         "Zugänglich-keit",
-        "Handlungs-Spielraun",
+        "Handlungs-Spielraum",
         "Wirksamkeit",
         "Fachspezifik",
         "Übertrag-barkeit",
