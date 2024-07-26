@@ -119,7 +119,7 @@ const ConfigureSession = ({
         "Anwendbarkeit",
         "mehr davon",
       ],
-      header: ["METHODE", "GRUPPENKLIMA", "LERNERFOLG"],
+      header: ["METHODE", "GR. KLIMA", "LERNERFOLG"],
     },
     {
       id: 3,
