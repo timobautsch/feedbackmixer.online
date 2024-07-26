@@ -155,7 +155,7 @@ const ConfigureSession = ({
         "Spaßfaktor",
         "Innovations-faktor",
       ],
-      header: ["AUS-TAUSCH", "F. FORMAT", "INHALT"],
+      header: ["AUSTAUSCH", "F. FORMAT", "INHALT"],
     },
     {
       id: 5,
