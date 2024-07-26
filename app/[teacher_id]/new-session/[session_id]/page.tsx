@@ -137,7 +137,7 @@ const ConfigureSession = ({
         "Sinn Kommunizieren",
         "Transfer",
       ],
-      header: ["INHALT", "LERNEN", "UNTERRICHTEN"],
+      header: ["INHALT", "LERNEN", "UNTERRICHT"],
     },
     {
       id: 4,
