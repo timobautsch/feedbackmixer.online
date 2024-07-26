@@ -249,7 +249,7 @@ const Page = ({
                     className="text-white font-bold"
                     style={{ transform: "rotateY(180deg)" }}
                   >
-                    No Sessions Available
+                    noch keine Antworten vorhanden
                   </p>
                 </div>
               )}
